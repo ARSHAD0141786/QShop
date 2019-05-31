@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QShop</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="share">Share \u0026 Feedback</string>
+    <string name="PREFERENCE_FILE_KEY">md_arshad.q_shop.user_identification</string>
+    <string name="saved_user_login_info">user_login_info</string>
+    <string name="saved_user_name">saved_user_name</string>
+    <string name="saved_address">saved_address</string>
+    <string name="saved_image_url">image_url</string>
+    <string name="saved_phone_number">phone_number</string>
+    <string name="saved_email_id">email_id</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#60abd5</color>
+    <color name="colorPrimaryDark">#5296c5</color>
+    <color name="colorAccent">#5296c5</color>
+    <color name="colorActionBar">#5296C5</color>
+    <color name="customLightBlue">#8acbef</color>
+    <color name="customDarkBlue">#5296C5</color>
+    <color name="colorDisabled">#BCBCBC</color>
+</resources>
